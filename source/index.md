@@ -1,5 +1,5 @@
 ---
-title: API Reference
+title: Trucks web-service API
 
 language_tabs:
   - shell
